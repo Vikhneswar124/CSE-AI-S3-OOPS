@@ -24,3 +24,12 @@ class details
         S1.close();
     }
 }
+Enter your Name:
+Vikhneswar S
+Enter your Class:
+S3 CSE-AI
+Enter your Roll No:
+60
+Your name is: Vikhneswar S
+Class is: S3 CSE-AI
+Roll No is: 60
