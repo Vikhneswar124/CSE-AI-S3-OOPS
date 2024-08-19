@@ -23,4 +23,10 @@ class arraysum
 	  System.out.println("the sum is"+sum);
 	  S1.close();
 	 }
-}	  		  
+}	  	
+enter the limit
+3
+enter the elements
+1 6 7
+the sum is14
+
