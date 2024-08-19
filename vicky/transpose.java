@@ -39,5 +39,15 @@ class transpose
 		S.close();
 }
 }
+enter the size of matrix
+2
+2
+enter the matrix
+a[0][0]: 2 2
+a[0][1]: a[1][0]: 4 
+a[1][1]: 4
+the transpose matrix is
+ 2 4
+ 2 4
 
 
