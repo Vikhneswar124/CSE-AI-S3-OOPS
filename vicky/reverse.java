@@ -18,3 +18,6 @@ class reverse {
         S1.close();
     }
 }
+Enter the string:
+ he is my friend 
+the reversed string isdneirf ym si eh 
