@@ -44,6 +44,20 @@ class matrixsum
 		}
 	}
 	S.close();
+		ENTER THE SIZE
+2
+2
+enter the first array
+1 1
+1 1
+enter the second array
+1 3
+5 3
+the sum is:2
+the sum is:4
+the sum is:6
+the sum is:4
+
 	}
 }	
 	
