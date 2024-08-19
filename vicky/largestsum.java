@@ -23,4 +23,9 @@ class largestsum {
         System.out.println("The largest number is: " + largest);
         s.close();
     }
+    Enter the number of elements:
+3
+Enter the elements:
+33 44 323
+The largest number is: 323
 }
